@@ -26,6 +26,8 @@ serve -s dist -l 3000
 
 2- I have found a new API called Interpol red notice api which is replacing the breaking bad API gave in the assignment description in order to make the code as realistic as possible.
 
+3- Node Version = 18
+
 ### Custom Webpack Configs
 
 Check webpack folder
