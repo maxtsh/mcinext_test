@@ -20,6 +20,12 @@ In order to run the built project in the dist folder, please use the below scrip
 serve -s dist -l 3000
 ```
 
+## Note, Be aware
+
+1- In order to be able to see the data from API source, you must use VPN if you are inside IRAN
+
+2- I have found a new API called Interpol red notice api which is replacing the breaking bad API gave in the assignment description in order to make the code as realistic as possible.
+
 ### Custom Webpack Configs
 
 Check webpack folder
