@@ -2,6 +2,12 @@
 
 ## Scripts
 
+Install dependencies
+
+```
+npm install
+```
+
 For development purpose, please use the below script on a command line
 
 ```
